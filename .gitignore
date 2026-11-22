@@ -1,0 +1,6 @@
+.vc_backup/
+__pycache__/
+*.pyc
+tools/_cmp/
+.DS_Store
+Thumbs.db
